@@ -1,0 +1,10 @@
+{
+  "name": "postgresql",
+  "connector": "postgresql",
+  "url": "postgres://postgres:ultimate@localhost/smashwatcher",
+  "host": "localhost",
+  "port": 5432,
+  "user": "postgres",
+  "password": "ultimate",
+  "database": "smashwatcher"
+}
